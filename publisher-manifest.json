@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c23f99eb1987a041e5a89ad6",
+  "owner": "m5edqakt",
+  "repo": "page-b398851fe9411d76be132b1a",
+  "title": "Best",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b398851fe9411d76be132b1a",
+      "a": "Best",
+      "b": "机场官网线路发布页",
+      "entity": "Best",
+      "brand": "Best",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "339d2333b66eb20336f9af47e2ad105816309df447b4c0f2e5a69b3a4c6f79d2",
+      "content": {
+        "primary_entity": "Best",
+        "keyword1": "Best",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按 Windows、macOS、iOS、Android 与路由器分别选择客户端，订阅格式通常为通用链接或 Clash 配置，导入后按客户端文档调整分流规则。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先看设备数量与月流量，再决定基础版、旗舰版或团队版，年付价格更省。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_DESCRIPTION": "，Best 提供基础版、旗舰版与团队版三档订阅，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版另有 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版适合多设备协作场景。按客户端文档导入订阅后即可按需切换线路。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同一时间在线设备数超出上限时，新设备可能无法建立连接，建议按实际常用设备数量选择档位。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按月刷新，适合流媒体、游戏加速与日常办公等不同用量，轻度用户选基础版即可。",
+          "AI_FAQ_ANSWER_3": "可以。订阅链接通常同时支持通用格式与 Clash 配置，导入 Windows、macOS、iOS 或 Android 客户端时按提示选择对应格式，路由器端需选用支持订阅导入的固件。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版加入 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点。对延迟敏感的游戏或直播场景建议从旗舰版起步。",
+          "AI_FAQ_ANSWER_5": "月付适合短期试用，年付折算后更划算，例如旗舰版按年付仅需 ¥350/年。长期稳定使用选年付，临时需求可先月付再升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "订阅能导入路由器或 Clash 客户端吗？",
+          "AI_FAQ_QUESTION_4": "游戏加速应该选哪个版本？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更合适？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度对比，快速锁定适合的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量直接对应档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "月流量 100GB 到 1000GB 逐级提升，流媒体与游戏加速更依赖节点质量。",
+          "AI_FEATURE_TITLE_2": "按流量定档",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付折算更省，旗舰版按年付仅需 ¥350/年。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再按客户端文档导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Best 提供三档海外加速订阅，覆盖 3 到 20 台设备在线，月流量 100GB 至 1000GB，旗舰版含 IPLC 专线游戏加速优化，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档订阅，覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "3 档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付折算更省，旗舰版 ¥350/年",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数、月流量与线路类型横向比较，年付折算分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看常用设备数量与每月流量，基础版适合 3 台设备与 100GB 以内用量，旗舰版适合 5 台与流媒体游戏需求。",
+          "AI_STEP_TEXT_2": "确认客户端是否支持订阅导入，Windows、macOS、iOS、Android 与路由器固件各有对应教程，按文档准备。",
+          "AI_STEP_TEXT_3": "在客户端粘贴订阅链接并选择节点，路由器端选用支持订阅导入的固件，完成后测试延迟与解锁效果。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Best 多设备加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tvbchina.com",
+    "host": "tvbchina.com"
+  },
+  "file_hashes": {
+    "index.html": "4ec7800718ec70598bad0bf42408e65b4d8ae68ef954ed10dac31474743d6190",
+    "sitemap.xml": "e23af7ed04424d184633fd6b306ddfe58da8219e12a88cf0237ff94c797777c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a165f79380280c4b31c944d316799025210812bdc1ae4f10d11ac30f5d682dd6",
+    "robots.txt": "6f124b05dc9fac97e3271e3f92a383bed177204e4e91fa06573979f8e8562dd7",
+    "d797156598ef25bea2f8d34c251a9af2.txt": "3983e6c775f08849d39f5faeee4f03ba8ebd8ef15ce81f2e0d22557ec52ec4c2"
+  },
+  "revision": "30afdc35c056f8989b557da0640b4fb0a4f139e7879b70c10718fc22d453bf6c"
+}

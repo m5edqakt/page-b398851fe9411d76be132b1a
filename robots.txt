@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tvbchina.com/sitemap.xml
